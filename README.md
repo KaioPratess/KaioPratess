@@ -1,10 +1,10 @@
 Hi there! I'm Kaio, a Front End Developer from Brazil! 🖖
 <br>
 
-
-
-![](https://github-readme-stats.vercel.app/api?username=KaioPratess&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KaioPratess&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KaioPratess&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiopratess&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
 <br>
 
