@@ -2,8 +2,8 @@
 <br>
 
 <div align="left">
-  <img  width='450px' src="https://github-readme-stats.vercel.app/api?username=KaioPratess&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
-  <img  width='450px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiopratess&layout=compact&langs_count=7&theme=dark"/>
+  <img  width='425px' src="https://github-readme-stats.vercel.app/api?username=KaioPratess&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
+  <img  width='425px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiopratess&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <br>
