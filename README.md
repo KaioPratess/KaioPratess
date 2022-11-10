@@ -9,7 +9,7 @@
 <br>
 
 <p>
-🔭 I’m currently working on the Tesla Clone project.<br>🌱 I’m currently learning TDD and Jest.<br>👯 I’m looking to collaborate on a full time project.<br>💬 Ask me anything about HTML,CSS, JavaScript or ReactJs.<br>📫 How to reach me: kaio_prates@hotmail.com.
+🔭 I’m currently working on the Tesla Clone project.<br>🌱 I’m currently studying Python and API's.<br>👯 I’m looking to collaborate on a full time project.<br>💬 Ask me anything about HTML,CSS, JavaScript or ReactJs.<br>📫 How to reach me: kaio_prates@hotmail.com.
 </p>
 
 <br>
